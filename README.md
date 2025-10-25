@@ -106,7 +106,6 @@ Feel free to fork the repo and open a pull request.
 #License
 This project is licensed under the MIT License – free to use and modify.
 
-## 💬 Connect with Me
 
-👨‍💻 **Mohit Kumar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohitkumar368)
+
+
